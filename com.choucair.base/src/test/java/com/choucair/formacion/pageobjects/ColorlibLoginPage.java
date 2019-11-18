@@ -37,3 +37,4 @@ public class ColorlibLoginPage extends PageObject{
 	}
 
 }
+

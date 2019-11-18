@@ -12,3 +12,4 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 public class RunnerFeatures {
 
 }
+
